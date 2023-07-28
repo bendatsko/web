@@ -9,7 +9,7 @@ module.exports = {
 
     "As a researcher in the [Michigan Integrated Circuits Lab (MICL)](https://micl.engin.umich.edu/) under the mentorship of [Dr. Michael Flynn](https://www.mpflynngroup.com/), I assist in developing high-performance mixed-signal integrated circuits. I also perform software-hardware integration with Verilog and FPGA, and write embedded software in C/C++ for RF and VLSI technologies.",
 
-    'Outside of academia, I have applied my knowledge in Java, Python, and JavaScript to a variety of projects. These include a highly-functional race simulation web platform for the [University of Michigan Solar Car Team](https://www.solarcar.engin.umich.edu/) and adventure games made in collaboration with Mojang Studios for Microsoft\'s [Minecraft Java Realms](https://minecraft.net/en-us/realms/content-creator).',
+    'Outside of academia, I have applied my knowledge in Java, Python, and JavaScript to a variety of projects. These include a race simulation web platform for the [University of Michigan Solar Car Team](https://www.solarcar.engin.umich.edu/) and adventure games made in collaboration with Mojang Studios for Microsoft\'s [Minecraft Java Realms](https://minecraft.net/en-us/realms/content-creator).',
     "I'm always looking for creative souls to collaborate with. If you'd like to work on a project together, don't hesitate to [shoot me an email](mailto:bdatsko@umich.edu)."
 
   ],
