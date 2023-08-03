@@ -57,6 +57,7 @@
     "gatsby-transformer-sharp": "^3.14.0",
     "github-markdown-css": "^5.1.0",
     "hogan.js": "^3.0.2",
+    "intersection-observer": "^0.12.2",
     "is-relative-url": "^3.0.0",
     "katex": "^0.15.2",
     "less": "^4.1.1",
