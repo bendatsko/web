@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 import AboutMe from '../components/PageFragments/HomePage/AboutMe';
 import Awards from '../components/PageFragments/HomePage/Awards';
