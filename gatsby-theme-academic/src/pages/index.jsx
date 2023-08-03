@@ -19,5 +19,6 @@ export default () => (
     <Experience />
     {/*<Awards />*/}
     <SelectedResearch />
+    <Analytics />
   </>
 );
