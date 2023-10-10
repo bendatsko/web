@@ -34,7 +34,7 @@ Our SoC prototype features four self-contained ReRAM CIM macros and incorporates
 Our proprietary ReRAM CMOS prototype measures 3.2mm x 5.1mm and demonstrates peak raw and normalized efficiencies of 662 and 20.7 Tera Operations per Second per Watt (TOPS/W), respectively, along with a compute density of 8.4 TOPS/mm². The prototype has successfully programmed 4-bit LeNet-1 weights in adjacent crossbar columns on multiple CIM tiles, achieving a classification accuracy of 96.8% on the MNIST dataset with 128 images.
 
 ## Resources
-For more information about previous iterations of the project, you can review the following resources:
+For more information and info on previous project iterations, review the following resources:
 
 - [Cerebro Datasheet](AMAT_Cerebro_Datasheet_9_18.docx.pdf)
 - [Piston User Guide](Piston%20V2%20User%20Guide%20(1).pdf)

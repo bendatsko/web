@@ -1,13 +1,14 @@
 ---
-title: "10-Ghz to 40-GHz Modulated Signal Source (Single-Tone, 16-QAM, 32-QAM, 64-QAM)"
+title: "10-Ghz to 40-GHz Modulated Signal Source (Single-Tone, 16-QAM, 64-QAM)"
 tags: ["fpga", "rf communication", "signal processing",]
 date: Jun. 2023 - Aug. 2023
 authors:
   - name: "Flynn Research Group"
   - "University of Michigan"
 path: "research/modulated_source"
-selected: true
+selected: false
 cover: "./preview.jpg"
+published: false
 priority: 0
 ---
 
