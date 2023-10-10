@@ -6,7 +6,7 @@ authors:
   - name: "Flynn Research Group"
   - "University of Michigan"
 path: "research/modulated_source"
-selected: true
+selected: false
 cover: "./preview.jpg"
 priority: 0
 ---
