@@ -8,6 +8,7 @@ authors:
 path: "research/battery"
 selected: false
 cover: "./preview.png"
+published: true
 priority: 3
 ---
 

@@ -71,6 +71,7 @@ export const query = graphql`
             tags
             excerpt
             priority
+            published
             links {
               name
               url

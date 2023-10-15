@@ -7,15 +7,15 @@ authors:
   - "University of Michigan"
 path: "research/modulated_source"
 selected: false
-cover: "./preview.jpg"
-published: false
+cover: "./preview.png"
+published: true
 priority: 0
 ---
 
 <p align="center">
     <div style="width: 90%">
         <img src="16QAM.jpg" alt="drawing" width="100%"/><br/>
-        <p align="left" style="margin-top: 2%;"><strong>Figure 1</strong>: Prototype chip on custom substrate PCB in PLCC socket (Piston motherboard). Prototype die measures 3.2 x 5.1mm.</p>
+        <p align="left" style="margin-top: 2%;"><strong>Figure 1</strong>: 16-QAM constellation diagram on spectrum analyzer ~5 EVM. </p>
     </div>
 </p>
 
@@ -32,7 +32,8 @@ Used for the beamformer. Versatile low-cost approach to modulated signal generat
 - *R&S spectrum analyzer (10 MHz clock synchronization)
 - *5V external power supply to upconverter
 
-_Block diagram here_
+[//]: # (_Block diagram here_)
 
 ## User Guide/Usage Explanation
-_User guide rephrased -- Additional images may be useful here_
+- [Setup Guide](modulated-source.pdf)
+[//]: # (_User guide rephrased -- Additional images may be useful here_)
