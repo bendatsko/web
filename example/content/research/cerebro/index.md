@@ -8,6 +8,7 @@ authors:
 path: "research/cerebro"
 selected: true
 cover: "./preview.png"
+published: false
 priority: 0
 ---
 
@@ -38,7 +39,8 @@ For more information and info on previous project iterations, review the followi
 
 - [Cerebro Datasheet](AMAT_Cerebro_Datasheet_9_18.docx.pdf)
 - [Piston User Guide](Piston%20V2%20User%20Guide%20(1).pdf)
-- [Schematics](Schematics.PDF)
+
+[//]: # (- [Schematics]&#40;Schematics.PDF&#41;)
 
 
 ## Notice

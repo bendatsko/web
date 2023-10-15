@@ -31,6 +31,7 @@ const ResearchCard = (props) => {
       venue,
       cover,
       links,
+      published,
     },
   } = node;
   const fluid = cover ? cover.childImageSharp.fluid : null;
@@ -99,10 +100,12 @@ const ResearchCard = (props) => {
 
   const excerptHTML = Utils.parseMarkDown(Utils.trimExcerpt(excerpt), true);
 
+  // console.log(`Research Panel: ${ title } Published?: ${ published }\n`);
+
   return (
     <Panel
       className={classnames(style.researchCard, 'cursor-default')}
-      style={{ padding: '0.8rem' }}
+      style={{ padding: '0.8rem', display: published ? "contents" : "none"}}
       // hoverable
       bordered
     >
@@ -112,7 +115,7 @@ const ResearchCard = (props) => {
           <FlexboxGrid>
             {authors ? authors.map(generateAuthor) : null}
           </FlexboxGrid>
-          <Stack wrap divider={<Divider vertical className={style.divider} />} style={{ marginTop: '0.5rem'}}>
+          <Stack wrap divider={<Divider vertical className={style.divider} />} style={{ marginTop: '0.5rem' }}>
             {infoLine}
           </Stack>
           <a href={Utils.generateFullUrl(siteMetadata, url)}>

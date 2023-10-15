@@ -8,6 +8,7 @@ authors:
 path: "research/beamformer"
 selected: false
 cover: "./fpga.png"
+published: false
 priority: 18
 ---
 
